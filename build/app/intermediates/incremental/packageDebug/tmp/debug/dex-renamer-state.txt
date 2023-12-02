@@ -1,0 +1,4 @@
+#Sat Dec 02 22:42:51 TRT 2023
+base.0=/Users/bukreyagmurturkoglu/AndroidStudioProjects/test2/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
